@@ -1,0 +1,16 @@
+# Highlight Reel pipeline deps (pinned to the versions verified in the 2026-10-17 e2e run)
+numpy==2.5.4
+scipy==1.18.1
+opencv-python-headless==5.0.0.93
+opencv-contrib-python==5.0.0.93
+mediapipe==1.1.1
+librosa==1.0.0
+soundfile==0.14.0
+soxr==1.1.0
+scikit-image==0.26.0
+pillow==13.0.0
+matplotlib==3.11.2
+requests==2.34.2
+# analysis step (analyze.py): transcript + scene detection
+faster-whisper
+scenedetect

@@ -1,0 +1,37 @@
+{
+ "name": "2026-10-17_hype_slug_v1_9x16",
+ "id": "2026-10-17_hype_slug_v1",
+ "style": "hype",
+ "account": "creator",
+ "bpm": 140,
+ "footage": {
+  "session1-pads": "/abs/path/IMG_0001.MOV"
+ },
+ "hook": "No days off.",
+ "emph": "No days off.",
+ "words": [
+  "EVERY",
+  "ROUND",
+  "EVERY",
+  "REP"
+ ],
+ "end_line": "",
+ "beds": [
+  "/abs/path/trackA_bed.wav",
+  "/abs/path/trackB_bed.wav"
+ ],
+ "licenses": {
+  "trackA": {
+   "title": "...",
+   "artist": "...",
+   "url": "https://...",
+   "page": "/abs/path/trackA_page.html"
+  },
+  "trackB": {
+   "title": "...",
+   "artist": "...",
+   "url": "https://...",
+   "page": "/abs/path/trackB_page.html"
+  }
+ }
+}

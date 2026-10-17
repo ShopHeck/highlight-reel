@@ -1,0 +1,12 @@
+.venv/
+.venv_path
+models/*
+!models/.gitkeep
+__pycache__/
+*.pyc
+out/
+work/
+*.mp4
+*.mov
+*.wav
+*.mp3
